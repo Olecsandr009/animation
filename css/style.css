@@ -146,7 +146,9 @@ button {
   margin: 0;
   padding: 0;
 }
-
+html {
+  scroll-behavior: smooth;
+}
 .burger {
   position: fixed;
   top: 0;
